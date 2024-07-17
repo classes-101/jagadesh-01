@@ -1,0 +1,113 @@
+network
+
+devops / aws 
+aws sysops admin
+
+devops devops  
+code = i need to deploy in server 
+
+upadate code + test code + fix bugs then copy to server and deploy 
+SCM (source code manage) + automation testing  (maven tool only java)+ 
+deploy in server 
+
+SCM    + CI (testing + build + scan ) + CD
+github 
+bitbucket 
+gitlab 
+azure repo  
+aws code commit
+
+CI = continues integration tool = pipeline 
+Jenkins 
+gitlab ci
+git action
+azuer pipeline
+aws code build
+bamboo
+
+CD = 
+ansible
+puppet
+chef
+
+jenkins pipeline = SCM + CI(jenkins) + CD (ansible)
+
+pipeline = SCM + CI(jenkins) + docker + kubernaties 
+
+Docker = containeazation tool 
+kubernaties = orcatration tool 
+
+infra provision = teraform script 
+
+vpc = network 
+
+======================================
+
+SCM = source code manager 
+
+anil 
+jak
+safik  = copy server 
+
+jagadish 
+
+github vs git
+ 
+git lab
+
+inislazation = github account create 
+
+git add * . 
+git commit  -m "message"
+git push origin branch
+
+git init = 
+
+HEAD  => index formate 
+
+git commit = 
+git branch stagey = master or main or dev = feature release branch 
+git stash - 
+git pull and fetch
+git pull request ( resolve conflicts)
+git merge
+git merge vs rebase 
+git revert vs reset
+git ammend 
+git cherry-pick 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
