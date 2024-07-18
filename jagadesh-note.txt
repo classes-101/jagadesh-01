@@ -68,36 +68,13 @@ HEAD  => index formate
 git commit = 
 git branch stagey = master or main or dev = feature release branch 
 git stash - 
-git pull vs fetch
+git pull and fetch
 git pull request ( resolve conflicts)
 git merge
 git merge vs rebase 
 git revert vs reset
 git ammend 
 git cherry-pick 
-====================================================
-branch master/main/dev (default)
-
-feature-branch -- changes add commit push 
-
-git stash 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
